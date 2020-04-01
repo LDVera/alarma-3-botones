@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notifiaciones</string>
+    <string name="notification_updated">NOTIFY ME ALERT!!!</string>
+    <string name="notification_title">NOTIFY ME ALERT</string>
+    <string name="learn_more">¡S.O.S!</string>
+    <string name="notification_text">Esto es un mensaje de alerta</string>
+    <string name="update">Alerta!</string>
+</resources>
