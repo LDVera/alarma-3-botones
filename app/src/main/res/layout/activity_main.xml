@@ -10,8 +10,7 @@
     <Button
         android:id="@+id/notify"
         android:text="NOTIFY_ME"
-
-        android:textColor="#FFFFFF"
+        android:textColor="#000"
         android:textSize="30sp"
         android:padding="15dp"
         android:layout_width="match_parent"
@@ -28,8 +27,7 @@
     <Button
         android:id="@+id/update"
         android:text="UPDATE"
-
-        android:textColor="#FFFFFF"
+        android:textColor="#000"
         android:textSize="30sp"
         android:padding="15dp"
         android:layout_width="match_parent"
@@ -46,8 +44,7 @@
     <Button
         android:id="@+id/cancel"
         android:text="CANCEL"
-
-        android:textColor="#FFFFFF"
+        android:textColor="#000"
         android:textSize="30sp"
         android:padding="15dp"
         android:layout_width="match_parent"
